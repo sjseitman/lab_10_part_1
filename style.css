@@ -1,17 +1,36 @@
-
-
+body {
+background-color:#6CA6CD;
+font-type:sans-serif;
+font-size:200%;
+}
 p {
-
+text-transform:uppercase;
 color:#4169E1;
 
 }
-h4 {
-
+h1 {
+margin:20px;
+padding:20px;
 color:#42426F;
+
 }
 
 h3 {
-	
+border: 10px #000000 solid;
+text-decoration:underline;	
 color:#43D58C;
 
+}
+h2 {
+text-decoration:line-through;
+}
+
+#intro {
+
+border: 1px #000000 solid;
+}
+
+.spotlight 
+{
+background-color:#FEFE22;
 }
