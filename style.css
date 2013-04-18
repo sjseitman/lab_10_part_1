@@ -34,3 +34,11 @@ border: 1px #000000 solid;
 {
 background-color:#FEFE22;
 }
+
+p a{
+text-decoration:line-through;
+}
+
+a:hover{
+text-transform:uppercase;
+}
